@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="org.example.AppTest" time="0.051" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="org.example.AppTest" time="0.05" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="sun.desktop" value="windows"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
@@ -17,7 +17,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="IN"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-11.0.1\bin"/>
-    <property name="sun.java.command" value="C:\Users\adhis\AppData\Local\Temp\surefire2505924172411103320\surefirebooter10407258147974601884.jar C:\Users\adhis\AppData\Local\Temp\surefire2505924172411103320 2020-02-25T22-05-12_975-jvmRun1 surefire9492324683110667781tmp surefire_010744407898063069438tmp"/>
+    <property name="sun.java.command" value="C:\Users\adhis\AppData\Local\Temp\surefire13376643338236124861\surefirebooter12923369631165475004.jar C:\Users\adhis\AppData\Local\Temp\surefire13376643338236124861 2020-02-25T22-24-47_214-jvmRun1 surefire706815122987804620tmp surefire_0924827552284441429tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\Users\adhis\Desktop\epamLogger\target\test-classes;C:\Users\adhis\Desktop\epamLogger\target\classes;C:\Users\adhis\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\adhis\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\adhis\.m2\repository\org\apache\logging\log4j\log4j-api\2.13.0\log4j-api-2.13.0.jar;C:\Users\adhis\.m2\repository\log4j\log4j\1.2.17\log4j-1.2.17.jar;C:\Users\adhis\.m2\repository\org\apache\logging\log4j\log4j-core\2.13.0\log4j-core-2.13.0.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -33,7 +33,7 @@
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="C:\Users\adhis\AppData\Local\Temp\surefire2505924172411103320\surefirebooter10407258147974601884.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\adhis\AppData\Local\Temp\surefire13376643338236124861\surefirebooter12923369631165475004.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="11.0.1+13-LTS"/>
